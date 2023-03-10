@@ -1,0 +1,6 @@
+snowflake_account         = "lgviuae-nm438315"
+snowflake_username        = "anjutk"
+snowflake_password        = "password*rotated"
+snowflake_database_name   = "db-employees2"
+snowflake_warehouse_name  = "wh-google1"
+snowflake_warehouse_size  = "SMALL"
